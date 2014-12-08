@@ -1,0 +1,6 @@
+/.ackrc
+/.build/
+!/.gitignore
+/.latest
+/Acme-Our-Version-*/
+/Acme-Our-Version-*.tar.gz
